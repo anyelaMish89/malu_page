@@ -1,0 +1,32 @@
+
+a{
+    color:white;
+}
+
+
+.navbar-brand{
+    font-size: 190%;
+    font-weight: bold;
+}
+
+.navbar-brand:hover{
+    color: white;
+}
+
+.nav-link:hover{
+    color: white;
+    text-decoration: underline;
+    font-weight:bolder;
+}
+
+.btn:hover{
+    color: orange;
+}
+
+.container{
+    margin-top: 100px;
+    margin-bottom: 160px;
+}
+
+.img{
+}
